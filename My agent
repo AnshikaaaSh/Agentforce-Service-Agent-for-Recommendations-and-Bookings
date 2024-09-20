@@ -1,0 +1,12 @@
+2. Follow Salesforce setup guide https://trailhead.salesforce.com/content/learn/projects/quick-start-build-your-first-agent-with-agentforce.
+
+## Usage
+Access the demo https://d8x000001o7qfuac-dev-ed.develop.my.site.com/coralcloud/ or set up your own service by following the installation instructions.
+
+## Technology Stack
+- Salesforce
+- Agentforce
+- APIs
+
+## License
+This project is licensed under the MIT License.
